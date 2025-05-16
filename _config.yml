@@ -5,3 +5,5 @@ theme: minima
 url: "https://besthero.github.io"
 baseurl: ""
 markdown: kramdown
+header_pages:
+  - posts.md

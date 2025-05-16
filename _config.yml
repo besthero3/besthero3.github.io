@@ -1,0 +1,7 @@
+title: CTF Writeups
+description: A collection of my Capture The Flag challenge solutions.
+author: besthero3
+theme: minima
+url: "https://besthero.github.io"
+baseurl: ""
+markdown: kramdown
